@@ -1,0 +1,20 @@
+{
+  "name": "likejam/jammy",
+  "type": "library",
+  "description": "Google Ad Manager Api authentication.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "likejam",
+      "email": "jamshidsaidmurodov@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.3",
+  },
+  "autoload": {
+    "psr-4": {
+      "Jam\\Jammy\\": "src"
+    }
+  }
+}
